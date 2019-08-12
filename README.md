@@ -1,7 +1,10 @@
 # This repo is the solution for ACME Supermarket
 
 productList.json is a mock of products list in DB.
+
 New promotion can be added or changed by editing the rules in priceRules.json
+
+note: I think the provided test data is incorrect.
 
 # PROBLEM
 ## ACME Supermarket
